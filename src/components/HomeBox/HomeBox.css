@@ -1,0 +1,23 @@
+.homebox__title {
+  padding-top: 80px;
+}
+.homebox__title h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 77px;
+  line-height: 83px;
+
+  color: #000000;
+}
+.homebox__title p,
+.description {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 31px;
+  /* or 153% */
+
+  color: #000000;
+}

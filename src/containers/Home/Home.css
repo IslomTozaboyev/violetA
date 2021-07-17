@@ -1,0 +1,44 @@
+.home .button {
+  padding: 15px 50px;
+  border-radius: 30px;
+  background-color: #8643dc;
+  font-weight: 500;
+  border: none;
+  outline: none;
+}
+.home .subtitle {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 120%;
+  color: #666666;
+}
+.home h1 {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 120%;
+  color: #25202f;
+}
+.home .description {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  color: #25202f;
+}
+.home .homebox__title {
+  margin-top: 80px;
+}
+@media screen and (max-width: 600px) {
+  .home .homebox__title {
+    margin-top: 0px;
+  }
+  .avatar {
+    width: 100% !important;
+    margin-top: 50px;
+  }
+}

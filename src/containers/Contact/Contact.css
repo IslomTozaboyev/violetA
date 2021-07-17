@@ -1,0 +1,34 @@
+.contact {
+  padding-top: 100px;
+}
+.contact .inforname {
+  color: #8643dc !important;
+}
+.contact .text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 52px;
+  color: #21232d;
+}
+.contact .input {
+  border: none;
+  outline: none;
+  box-shadow: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.199);
+}
+.contact .button {
+  background: #8643dc;
+  border-radius: 30px;
+  padding: 10px 30px;
+}
+.contact .link {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  color: #21232d;
+}

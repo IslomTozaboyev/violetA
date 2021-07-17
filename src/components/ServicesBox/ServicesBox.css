@@ -1,0 +1,16 @@
+.services__box .subtitle {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #25202f;
+}
+.services__box .description {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 32px;
+  color: #47444e;
+}
